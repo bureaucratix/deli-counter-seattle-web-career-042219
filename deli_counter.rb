@@ -26,5 +26,3 @@ def now_serving(deli_line)
   end
 
 end
-
-#line(["joe","bob","al"])
